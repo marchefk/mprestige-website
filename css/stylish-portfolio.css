@@ -79,7 +79,7 @@ hr.small {
     z-index: 1000;
     position: fixed;
     right: 0;
-    width: 250px;
+    width: 200px;
     height: 100%;
     transform: translateX(250px);
     overflow-y: auto;
