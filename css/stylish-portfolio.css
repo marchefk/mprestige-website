@@ -191,6 +191,19 @@ hr.small {
     text-align: left;
 }
 
+@media screen and (min-width: 560px) {
+  .about-row {
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .logo-div {
+    margin-bottom: 30px;
+  }
+}
+
 /* Services */
 
 .services {
