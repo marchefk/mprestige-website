@@ -26,7 +26,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 4.5em;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /* Change bootstrap primary color - background and icons */
@@ -167,6 +167,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
+    font-family: 'Cabin', "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     background: url(../img/pexels3.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
